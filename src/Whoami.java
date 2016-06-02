@@ -2,7 +2,7 @@
  * Hello world!
  *
  */
-public class HelloWorld 
+public class Whoami
 {
     public static void main( String[] args )
     {
